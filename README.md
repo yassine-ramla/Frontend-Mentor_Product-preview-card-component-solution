@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-flexbox-v3sUT7sRbd)
+- Live Site URL: [live site URL](https://yassine-ramla.github.io/Frontend-Mentor_Product-preview-card-component-solution/)
 
 ## My process
 
